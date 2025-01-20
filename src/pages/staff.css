@@ -1,0 +1,35 @@
+/* staff.css */
+
+.staff-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.staff-table {
+    margin-top: 20px;
+}
+
+.staff-header {
+    display: flex;
+    justify-content: space-between;
+    color: #000;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.staff-modal .ant-modal-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.staff-button {
+    margin-bottom: 20px;
+}
+
+.staff-form .ant-form-item {
+    margin-bottom: 15px;
+}
+
+.staff-actions button {
+    margin-right: 8px;
+}
